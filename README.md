@@ -18,9 +18,8 @@ El repositorio está dividido en dos carpetas principales:
 
 ### Para el entorno de **Python**:
 
-- Se **recomienda** el uso de Visual Studio Code, pero no es obligatorio 
-
 - Se **recomienda** el uso de un entorno virtual para mantener organizadas las dependencias, aunque no es obligatorio.
+- Se **recomienda** el uso de Visual Studio Code, pero no es obligatorio 
 
 #### Librerías necesarias:
 
