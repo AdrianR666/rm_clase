@@ -9,7 +9,7 @@ Este repositorio contiene el conjunto de archivos utilizados en la clase de **Ro
 
 El repositorio está dividido en dos carpetas principales:
 
-- `esp32/`: Contiene los archivos `.ino` y otros necesarios para programar una ESP32 desde el IDE de Arduino. Estos programas generalmente manejan la conexión WiFi, la recepción de comandos vía UDP y el control de motores o sensores.
+- `arduino/`: Contiene los archivos `.ino` y otros necesarios para programar una ESP32 desde el IDE de Arduino. Estos programas generalmente manejan la conexión WiFi, la recepción de comandos vía UDP y el control de motores o sensores.
 
 - `python/`: Scripts en Python que permiten la comunicación con el ESP32 (por ejemplo, envío de comandos de velocidad), procesamiento de imágenes (si se usa cámara) y lógica de control en general.
 
@@ -18,7 +18,7 @@ El repositorio está dividido en dos carpetas principales:
 
 ### Para el entorno de **Python**:
 
--Se **recomienda** el uso de Visual Studio Code, pero no es obligatorio 
+- Se **recomienda** el uso de Visual Studio Code, pero no es obligatorio 
 
 - Se **recomienda** el uso de un entorno virtual para mantener organizadas las dependencias, aunque no es obligatorio.
 
