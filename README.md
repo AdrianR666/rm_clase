@@ -25,9 +25,9 @@ El repositorio está dividido en dos carpetas principales:
 
 Asegúrate de instalar las siguientes versiones específicas para evitar problemas de compatibilidad:
 
-pip install numpy==2.2.1
-pip install websockets==14.2
-pip install opencv-contrib-python==4.10.0.84
+- pip install numpy==2.2.1
+- pip install websockets==14.2
+- pip install opencv-contrib-python==4.10.0.84
 
 ### 🔧 ESP32 – Consideraciones importantes
 
