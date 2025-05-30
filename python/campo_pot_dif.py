@@ -86,7 +86,7 @@ while True:
 
         poses = {}
         for i, id in enumerate(ids.flatten()):
-            poses[id] = (tvecs[i][0], rvecs[i][0])
+            poses[id] = (rvecs[i][0],tvecs[i][0])
             cv.drawFrameAxes(frame, camera_matrix, dist_coeffs, rvecs[i][0], tvecs[i][0], 0.05)
 
         if 0 in poses and 1 in poses and 2 in poses:
